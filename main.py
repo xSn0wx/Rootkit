@@ -22,7 +22,7 @@ def choix(int_intro):
         print()
         choix()
 
-# Installation des dependences Windows/Linux
+# Installation des dependences Windows/Linux (En cours...)
 
 while True:
     print()
